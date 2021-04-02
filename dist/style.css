@@ -1,0 +1,37 @@
+body {
+ 
+    font-family: 'Roboto Mono',monospace;
+    min-height: 500px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/O_Coliseu_%288561269740%29.jpg/800px-O_Coliseu_%288561269740%29.jpg');
+    background-color: #BC8F8F;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #8B4513;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #000000;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
